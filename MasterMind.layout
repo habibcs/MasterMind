@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="MasterMind.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="27" topLine="0" />
+	</File>
+	<File name="MasterMind.h" open="1" top="0" tabpos="2">
+		<Cursor position="83" topLine="23" />
+	</File>
+	<File name="Program.cpp" open="1" top="1" tabpos="4">
+		<Cursor position="1049" topLine="0" />
+	</File>
+	<File name="Program.h" open="1" top="0" tabpos="3">
+		<Cursor position="529" topLine="15" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="131" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
